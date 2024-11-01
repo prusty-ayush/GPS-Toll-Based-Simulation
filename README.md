@@ -1,2 +1,3 @@
 # GPS-Toll-Based-Simulation
 
+This project demonstrates a GPS-based toll tax calculator using PyScript and SimPy, designed to simulate a real-time toll payment system. The simulation utilizes GPS coordinates to determine if vehicles cross defined toll zones and calculates toll charges based on the distance traveled. The main technologies used include simpy for event-driven simulation, geopandas and shapely for geospatial operations, and folium for interactive mapping. The system automatically deducts toll fees from user accounts and generates a detailed report on toll distance and charges. This project serves as an illustrative prototype for intelligent tolling solutions, integrating Python and geospatial analysis in a browser-friendly format.
